@@ -1,13 +1,13 @@
 ## My personal papers list 
 
-[Deep learning general](#Deep learning general)
-[Reinforcement learning](#Reinforcement learning)
-[Generative model](#Generative model)
+[Deep learning general](#Deep-learning-general)
+[Reinforcement learning](#Reinforcement-learning)
+[Generative model](#Generative-model)
 [LLMs](#LLMs)
 [GNNs](#GNNs)
 
 
-### Deep learning general
+### Deep learning general {#Deep-learning-general}
 
 - Loss of Plasticity in Deep Continual Learning : https://arxiv.org/abs/2306.13812
   
@@ -20,7 +20,7 @@ Interesting theorical approach that said that there is a lot of useless symetrie
 - [End-to-end Algorithm Synthesis with Recurrent Networks: Logical...](https://arxiv.org/abs/2202.05826)
 Using recurrent modeliing to do OOD generalization
 
-### Reinforcement learning
+### Reinforcement learning {#Reinforcement-learning}
 
 - Sample-efficient reinforcement learningby breaking the replay ratio barrier [https://openreview.net/pdf?id=4GBGwVIEYJ](https://openreview.net/pdf?id=4GBGwVIEYJ "https://openreview.net/pdf?id=4GBGwVIEYJ")
 
@@ -31,7 +31,7 @@ Interesting Symlog Predictions for reward scaling
 Extensive use of shrink and reset (continual learning)
 
 
-### Generative model
+### Generative model {#Generative-model}
 
 **Machting flow papers** :
 
@@ -44,7 +44,7 @@ Simply explain matching flow for continuous variable
 
 - https://arxiv.org/pdf/2404.19739v1 MF with categorical variable
 
-### LLMs
+### LLMs {#LLMs}
 
 - Reinforced Self-Training (ReST) for Language Modeling : https://arxiv.org/pdf/2308.08998.pdf
 Methodo to improve LLM if you have a reward function at your disposal
@@ -57,7 +57,7 @@ A good preference optimization scheme (if you have a preference dataset)
 - Direct Nash Optimization: Teaching Language Models to Self-Improve with General Preferences :
 		https://arxiv.org/abs/2404.03715
 
-### GNNs
+### GNNs {#GNNs}
 
 
 - https://proceedings.mlr.press/v202/shirzad23a/shirzad23a.pdf (EXPHORMER: Sparse Transformers for Graphs)
