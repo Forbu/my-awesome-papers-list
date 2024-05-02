@@ -1,5 +1,11 @@
 ## My personal papers list 
 
+[Deep learning general](#Deep learning general)
+[Reinforcement learning](#Reinforcement learning)
+[Generative model](#Generative model)
+[LLMs](#LLMs)
+[GNNs](#GNNs)
+
 
 ### Deep learning general
 
