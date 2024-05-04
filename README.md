@@ -95,6 +95,9 @@ Stable cascade : a efficient way to train image generation with NLP instruct
 - https://arxiv.org/pdf/2203.06153
 Symmetry Group Equivariant Architectures for Physics
 
+- https://arxiv.org/pdf/1802.08219
+  Equivariant learning
+
 ### Other
 
 - https://proceedings.mlr.press/v206/bertrand23a/bertrand23a.pdf
