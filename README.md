@@ -98,6 +98,9 @@ Symmetry Group Equivariant Architectures for Physics
 - https://arxiv.org/pdf/1802.08219
   Equivariant learning (just use sperical harmonics)
 
+- https://arxiv.org/abs/2006.10503
+  SE(3) transformer
+
 ### Other
 
 - https://proceedings.mlr.press/v206/bertrand23a/bertrand23a.pdf
