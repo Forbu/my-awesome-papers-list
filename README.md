@@ -96,7 +96,7 @@ Stable cascade : a efficient way to train image generation with NLP instruct
 Symmetry Group Equivariant Architectures for Physics
 
 - https://arxiv.org/pdf/1802.08219
-  Equivariant learning
+  Equivariant learning (just use sperical harmonics)
 
 ### Other
 
