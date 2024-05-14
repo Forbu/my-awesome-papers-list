@@ -60,6 +60,8 @@ Simply explain matching flow for continuous variable
 
 - https://arxiv.org/pdf/2404.19739v1 MF with categorical variable
 
+- https://arxiv.org/abs/2309.06380 : instaflow, "straighten" flow trajectories => faster inference 
+
 **Graph Generation**
 
 - https://arxiv.org/pdf/2312.11529.pdf
