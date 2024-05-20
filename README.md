@@ -27,6 +27,8 @@ Using recurrent modeliing to do OOD generalization
 - https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.5.043252
 Interesting take on forecasting chaotic time series
 
+- [An Empirical Model of Large-Batch Training](https://arxiv.org/pdf/1812.06162) Choosing the batch size (to read)
+
 ### Reinforcement learning 
 
 - Sample-efficient reinforcement learningby breaking the replay ratio barrier [https://openreview.net/pdf?id=4GBGwVIEYJ](https://openreview.net/pdf?id=4GBGwVIEYJ "https://openreview.net/pdf?id=4GBGwVIEYJ")
@@ -102,6 +104,12 @@ Symmetry Group Equivariant Architectures for Physics
 
 - https://arxiv.org/abs/2006.10503
   SE(3) transformer
+
+- Harmonics of Learning:
+Universal Fourier Features
+Emerge in Invariant Networks
+https://arxiv.org/pdf/2312.08550
+
 
 ### Other
 
