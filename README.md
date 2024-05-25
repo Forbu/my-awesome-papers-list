@@ -90,6 +90,8 @@ A good preference optimization scheme (if you have a preference dataset)
 - https://arxiv.org/pdf/2306.00637.pdf
 Stable cascade : a efficient way to train image generation with NLP instruct
 
+- https://arxiv.org/abs/2405.12130 : MoRa, better efficient finetuning than LoRa (higher memory capacity)
+
 ### GNNs 
 
 - https://proceedings.mlr.press/v202/shirzad23a/shirzad23a.pdf (EXPHORMER: Sparse Transformers for Graphs)
