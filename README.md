@@ -112,6 +112,10 @@ Universal Fourier Features
 Emerge in Invariant Networks
 https://arxiv.org/pdf/2312.08550
 
+### Datasets
+
+- 3D objects dataset : https://arxiv.org/pdf/2307.05663
+
 
 ### Other
 
