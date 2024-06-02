@@ -118,6 +118,12 @@ https://arxiv.org/pdf/2312.08550
 
 - 3D objects dataset : https://arxiv.org/pdf/2307.05663
 
+### Constraints into Neural Net
+
+- https://arxiv.org/pdf/2403.14404 : physics informed generative modelling
+
+- https://arxiv.org/pdf/2402.14009 : geometric informed generative modeling
+
 
 ### Other
 
