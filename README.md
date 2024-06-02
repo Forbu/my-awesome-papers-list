@@ -62,7 +62,9 @@ Simply explain matching flow for continuous variable
 
 - https://arxiv.org/pdf/2404.19739v1 MF with categorical variable
 
-- https://arxiv.org/abs/2309.06380 : instaflow, "straighten" flow trajectories => faster inference 
+- https://arxiv.org/abs/2309.06380 : instaflow, "straighten" flow trajectories => faster inference
+
+- improved maching flow training : https://arxiv.org/pdf/2405.20320
 
 **Graph Generation**
 
