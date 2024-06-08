@@ -45,20 +45,21 @@ Take into acount the stochastic RL env
 
 - DO TRANSFORMER WORLD MODELS GIVE BETTER POLICY GRADIENTS?
 https://arxiv.org/pdf/2402.05290.pdf
-Good world model approach
+Good world model approach but a transformer achitecture for RL with world model.
 
 ### Generative model 
 
 - MeshGPT : https://nihalsid.github.io/mesh-gpt/static/MeshGPT.pdf#page=9&zoom=100,412,724
+  Similar to VAEGAN : first VAE then autoregressive sampling from latent space.
 
 **Machting flow papers** :
 
 - https://arxiv.org/pdf/2210.02747.pdf
 Simply explain matching flow for continuous variable
   
-- https://arxiv.org/pdf/2302.00482.pdf matching flow with OT optim
+- https://arxiv.org/pdf/2302.00482.pdf matching flow with OT optim. Nice explaination of CMF with some OT extension.
   
-- https://arxiv.org/pdf/2403.03206.pdf SB3 with matching flow
+- https://arxiv.org/pdf/2403.03206.pdf SB3 with matching flow. An example of CMF implementation.
 
 - https://arxiv.org/pdf/2404.19739v1 MF with categorical variable
 
@@ -70,6 +71,10 @@ Simply explain matching flow for continuous variable
 
 - https://arxiv.org/pdf/2312.11529.pdf
 Graph generation : multi level graph generation thanks to Coarsening
+
+**Generatiev other**
+
+- https://arxiv.org/pdf/2404.09562 : sigma GPT autoregressive but with permutation training (allow better sampling). 
 
 
 
@@ -87,7 +92,7 @@ A good preference optimization scheme (if you have a preference dataset)
 		https://arxiv.org/abs/2404.03715
 
 - https://arxiv.org/pdf/2309.07864.pdf#page=67&zoom=100,144,670
-  toolformer
+  toolformer, LLM with tools
 
 - https://arxiv.org/pdf/2306.00637.pdf
 Stable cascade : a efficient way to train image generation with NLP instruct
@@ -107,7 +112,7 @@ Symmetry Group Equivariant Architectures for Physics
   Equivariant learning (just use sperical harmonics)
 
 - https://arxiv.org/abs/2006.10503
-  SE(3) transformer
+  SE(3) transformer, include invariance in transformer to accelerate training.
 
 - Harmonics of Learning:
 Universal Fourier Features
