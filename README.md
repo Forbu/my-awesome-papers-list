@@ -10,6 +10,12 @@
 
 [GNNs](#GNNs)
 
+[Symetry in NN](#Symetry-group-in-DL)
+
+[Datasets](#Datasets)
+
+[Reasoning](#Reasoning)
+
 
 ### Deep learning general
 
@@ -129,6 +135,9 @@ https://arxiv.org/pdf/2312.08550
 
 - https://arxiv.org/pdf/2402.14009 : geometric informed generative modeling
 
+### Reasoning
+
+- https://arxiv.org/pdf/2406.11179 : Reasoning with diffusion and energy based model
 
 ### Other
 
