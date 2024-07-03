@@ -139,6 +139,15 @@ https://arxiv.org/pdf/2312.08550
 
 - https://arxiv.org/pdf/2406.11179 : Reasoning with diffusion and energy based model
 
+### Training bigger model
+
+- https://arxiv.org/pdf/2203.03466 : Tensor Programs V:
+Tuning Large Neural Networks via
+Zero-Shot Hyperparameter Transfer
+
+The idea is to tune an HP (like lr) with a small model and then we can transfert this HP to a bigger model without tuning specific this bigger model.
+
+
 ### Other
 
 - https://proceedings.mlr.press/v206/bertrand23a/bertrand23a.pdf
