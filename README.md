@@ -10,6 +10,8 @@
 
 [GNNs](#GNNs)
 
+[DL for Physics](#DL-for-Physics)
+
 [Symetry in NN](#Symetry-group-in-DL)
 
 [Datasets](#Datasets)
@@ -111,6 +113,10 @@ Stable cascade : a efficient way to train image generation with NLP instruct
 ### GNNs 
 
 - https://proceedings.mlr.press/v202/shirzad23a/shirzad23a.pdf (EXPHORMER: Sparse Transformers for Graphs)
+
+## DL for Physics
+
+- LAGRANGIAN NEURAL NETWORKS : enforce conservation law with a special loss (https://arxiv.org/pdf/2003.04630)
 
 ### Symetry group in DL
 
