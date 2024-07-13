@@ -114,7 +114,7 @@ Stable cascade : a efficient way to train image generation with NLP instruct
 
 - https://proceedings.mlr.press/v202/shirzad23a/shirzad23a.pdf (EXPHORMER: Sparse Transformers for Graphs)
 
-## DL for Physics
+### DL for Physics
 
 - LAGRANGIAN NEURAL NETWORKS : enforce conservation law with a special loss (https://arxiv.org/pdf/2003.04630)
 
