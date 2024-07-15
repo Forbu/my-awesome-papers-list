@@ -156,6 +156,8 @@ Zero-Shot Hyperparameter Transfer
 
 The idea is to tune an HP (like lr) with a small model and then we can transfert this HP to a bigger model without tuning specific this bigger model.
 
+- https://arxiv.org/abs/2310.17813 : "A Spectral Condition for Feature Learning" instead of muP we simply a spectral normalization 
+
 
 ### Other
 
