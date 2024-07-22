@@ -110,6 +110,9 @@ Stable cascade : a efficient way to train image generation with NLP instruct
 
 - https://arxiv.org/abs/2405.12130 : MoRa, better efficient finetuning than LoRa (higher memory capacity)
 
+- Finetuning LLMs : https://arxiv.org/pdf/2402.02868 Fine-tuning Reinforcement Learning Models is Secretly a Forgetting Mitigation
+Problem
+
 ### GNNs 
 
 - https://proceedings.mlr.press/v202/shirzad23a/shirzad23a.pdf (EXPHORMER: Sparse Transformers for Graphs)
