@@ -63,6 +63,10 @@ Good world model approach but a transformer achitecture for RL with world model.
 - MeshGPT : https://nihalsid.github.io/mesh-gpt/static/MeshGPT.pdf#page=9&zoom=100,412,724
   Similar to VAEGAN : first VAE then autoregressive sampling from latent space.
 
+- Stretching Each Dollar: Diffusion Training from Scratch on
+a Micro-Budget : https://arxiv.org/abs/2407.15811
+Clever use of token masking to reduce training flops
+
 **Machting flow papers** :
 
 - https://arxiv.org/pdf/2210.02747.pdf
