@@ -58,6 +58,9 @@ Take into acount the stochastic RL env
 https://arxiv.org/pdf/2402.05290.pdf
 Good world model approach but a transformer achitecture for RL with world model.
 
+- In the same transformer-like architecture : TRANSFORMER-BASED WORLD MODELS ARE HAPPY
+WITH 100K INTERACTIONS : https://arxiv.org/pdf/2303.07109
+
 ### Generative model 
 
 - MeshGPT : https://nihalsid.github.io/mesh-gpt/static/MeshGPT.pdf#page=9&zoom=100,412,724
