@@ -125,6 +125,8 @@ Stable cascade : a efficient way to train image generation with NLP instruct
 - Finetuning LLMs : https://arxiv.org/pdf/2402.02868 Fine-tuning Reinforcement Learning Models is Secretly a Forgetting Mitigation
 Problem
 
+- How to create synthetic data for training : https://www.youtube.com/watch?v=yBL7J0kgldU
+
 ### GNNs 
 
 - https://proceedings.mlr.press/v202/shirzad23a/shirzad23a.pdf (EXPHORMER: Sparse Transformers for Graphs)
