@@ -109,7 +109,7 @@ Methodo to improve LLM if you have a reward function at your disposal
 - [Direct Preference Optimization: Your Language Model is Secretly a R...](https://arxiv.org/abs/2305.18290)
 A good preference optimization scheme (if you have a preference dataset)
 
-- [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)
+- [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073) How to make your LLM moral version Anthropic AI 
 
 - Direct Nash Optimization: Teaching Language Models to Self-Improve with General Preferences :
 		https://arxiv.org/abs/2404.03715
