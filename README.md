@@ -135,6 +135,8 @@ Problem
 
 - LAGRANGIAN NEURAL NETWORKS : enforce conservation law with a special loss (https://arxiv.org/pdf/2003.04630)
 
+- Quantum simulation : https://arxiv.org/pdf/2308.16848
+
 ### Symetry group in DL
 
 - https://arxiv.org/pdf/2203.06153
