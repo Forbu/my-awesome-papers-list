@@ -95,7 +95,7 @@ Simply explain matching flow for continuous variable
 - https://arxiv.org/pdf/2312.11529.pdf
 Graph generation : multi level graph generation thanks to Coarsening
 
-**Generatiev other**
+**Generative other**
 
 - https://arxiv.org/pdf/2404.09562 : sigma GPT autoregressive but with permutation training (allow better sampling). 
 
