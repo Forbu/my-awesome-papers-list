@@ -73,7 +73,7 @@ Learning for Combinatorial Optimization https://arxiv.org/pdf/1807.01672
 a Micro-Budget : https://arxiv.org/abs/2407.15811
 Clever use of token masking to reduce training flops
 
-**Machting flow papers** :
+**Matching flow papers** :
 
 - https://arxiv.org/pdf/2210.02747.pdf
 Simply explain matching flow for continuous variable
