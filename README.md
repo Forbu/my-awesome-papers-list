@@ -183,3 +183,5 @@ The idea is to tune an HP (like lr) with a small model and then we can transfert
 - https://proceedings.mlr.press/v206/bertrand23a/bertrand23a.pdf
 Other thing than elo to rank player
 
+- Quantum physics a theorical minimum : [pdf](https://github.com/markf94/QML_Thesis/blob/master/Books_and_Resources/Quantum%20Mechanics%20-%20The%20Theoretical%20Minimum.pdf)
+
