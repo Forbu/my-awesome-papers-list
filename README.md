@@ -86,6 +86,8 @@ Simply explain matching flow for continuous variable
 
 - https://arxiv.org/abs/2309.06380 : instaflow, "straighten" flow trajectories => faster inference
 
+- https://arxiv.org/abs/2209.03003 : Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow, improve flow speed
+
 - https://arxiv.org/pdf/2405.20320 : improved maching flow training
 
 - https://arxiv.org/pdf/2407.15595 : discret matching flow for language generation
