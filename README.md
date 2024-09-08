@@ -139,6 +139,8 @@ Problem
 
 - Quantum simulation : https://arxiv.org/pdf/2308.16848
 
+- Neural Network Potentials: A Concise Overview of Methods: https://arxiv.org/pdf/2107.03727
+
 ### Symetry group in DL
 
 - https://arxiv.org/pdf/2203.06153
