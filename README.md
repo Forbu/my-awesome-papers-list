@@ -141,6 +141,10 @@ Problem
 
 - Neural Network Potentials: A Concise Overview of Methods: https://arxiv.org/pdf/2107.03727
 
+- PhAST: Physics-Aware, Scalable, and Task-Specific GNNs for
+Accelerated Catalyst Design https://jmlr.org/papers/volume25/23-0680/23-0680.pdf 
+
+
 ### Symetry group in DL
 
 - https://arxiv.org/pdf/2203.06153
@@ -170,6 +174,12 @@ https://arxiv.org/pdf/2312.08550
 ### Reasoning
 
 - https://arxiv.org/pdf/2406.11179 : Reasoning with diffusion and energy based model
+
+- https://arxiv.org/pdf/2409.12917 Training Language Models to Self-Correct via
+Reinforcement Learning improving reasoning in LLM
+
+- Scaling LLM Test-Time Compute Optimally can
+be More Effective than Scaling Model Parameters : https://arxiv.org/pdf/2408.03314
 
 ### Training bigger model
 
