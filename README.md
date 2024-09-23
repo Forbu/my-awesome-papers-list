@@ -18,6 +18,8 @@
 
 [Reasoning](#Reasoning)
 
+[Training Big Model](#Training-bigger-model)
+
 
 ### Deep learning general
 
@@ -191,6 +193,7 @@ The idea is to tune an HP (like lr) with a small model and then we can transfert
 
 - https://arxiv.org/abs/2310.17813 : "A Spectral Condition for Feature Learning" instead of muP we simply a spectral normalization 
 
+- https://blog.eleuther.ai/mutransfer/ good summarized on why and how to implement muP parametrization
 
 ### Other
 
