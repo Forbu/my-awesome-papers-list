@@ -75,6 +75,9 @@ Learning for Combinatorial Optimization https://arxiv.org/pdf/1807.01672
 a Micro-Budget : https://arxiv.org/abs/2407.15811
 Clever use of token masking to reduce training flops
 
+- Movie Gen: A Cast of Media Foundation Models , a meta ai architecture for image/movie generation
+https://ai.meta.com/static-resource/movie-gen-research-paper
+
 **Matching flow papers** :
 
 - https://arxiv.org/pdf/2210.02747.pdf
