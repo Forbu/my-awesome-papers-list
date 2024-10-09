@@ -20,6 +20,8 @@
 
 [Training Big Model](#Training-bigger-model)
 
+[Deep potential Arc](#Deep-Potential)
+
 
 ### Deep learning general
 
@@ -208,3 +210,14 @@ Other thing than elo to rank player
 
 - Quantum physics a theorical minimum : [pdf](https://github.com/markf94/QML_Thesis/blob/master/Books_and_Resources/Quantum%20Mechanics%20-%20The%20Theoretical%20Minimum.pdf)
 
+### Deep Potential
+
+Current reading on deep potential :
+
+- https://arxiv.org/pdf/2203.00393 (survey paper)
+
+- https://arxiv.org/pdf/1707.01478 (Deep Potential: a general representation of a many-body
+potential energy surface)
+
+- https://arxiv.org/pdf/1707.09571 (Deep Potential Molecular Dynamics: a scalable model with the
+accuracy of quantum mechanics)
