@@ -136,6 +136,9 @@ Problem
 
 - How to create synthetic data for training : https://www.youtube.com/watch?v=yBL7J0kgldU
 
+- GaLore : full finetune LLM as a lower cost, Memory-Efficient LLM Training by Gradient Low-Rank Projection 
+https://arxiv.org/pdf/2403.03507
+
 ### GNNs 
 
 - https://proceedings.mlr.press/v202/shirzad23a/shirzad23a.pdf (EXPHORMER: Sparse Transformers for Graphs)
