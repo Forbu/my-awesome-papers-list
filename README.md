@@ -97,6 +97,9 @@ Simply explain matching flow for continuous variable
 
 - https://arxiv.org/pdf/2405.20320 : improved maching flow training
 
+- One Step Diffusion via Shortcut Models another (better) improved speed matching flow (https://arxiv.org/abs/2410.12557) 
+
+
 - https://arxiv.org/pdf/2407.15595 : discret matching flow for language generation
 
 **Graph Generation**
