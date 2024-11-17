@@ -199,6 +199,8 @@ Reinforcement Learning improving reasoning in LLM
 - Scaling LLM Test-Time Compute Optimally can
 be More Effective than Scaling Model Parameters : https://arxiv.org/pdf/2408.03314
 
+- Searching Latent Program Spaces (https://arxiv.org/pdf/2411.08706) optimization in the latent space to fit every program in the in context setup.
+
 ### Training bigger model
 
 - https://arxiv.org/pdf/2203.03466 : Tensor Programs V:
