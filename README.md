@@ -74,6 +74,9 @@ Learning for Combinatorial Optimization https://arxiv.org/pdf/1807.01672
 Through World Models : https://tspace.library.utoronto.ca/bitstream/1807/140956/2/Hafner_Danijar_202411_PhD_thesis.pdf
 A nice summary of world model technics from Danijar Hafner
 
+- OpenAI o1 algorithm : https://arxiv.org/pdf/2310.04363 (AMORTIZING INTRACTABLE INFERENCE
+IN LARGE LANGUAGE MODELS)
+
 ### Generative model 
 
 - MeshGPT : https://nihalsid.github.io/mesh-gpt/static/MeshGPT.pdf#page=9&zoom=100,412,724
