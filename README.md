@@ -44,8 +44,6 @@ Interesting take on forecasting chaotic time series
 - [Learning to (Learn at Test Time):
 RNNs with Expressive Hidden States](https://arxiv.org/pdf/2407.04620) : a new way to approach sequence problem with DL / ML
 
-- [nGPT : new neural architecture](https://arxiv.org/abs/2410.01131) : improve gpt architecture with unit sphere normalization tricks
-
 ### Reinforcement learning 
 
 - Sample-efficient reinforcement learningby breaking the replay ratio barrier [https://openreview.net/pdf?id=4GBGwVIEYJ](https://openreview.net/pdf?id=4GBGwVIEYJ "https://openreview.net/pdf?id=4GBGwVIEYJ")
