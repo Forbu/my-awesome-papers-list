@@ -109,10 +109,7 @@ Simply explain matching flow for continuous variable
 
 - https://arxiv.org/pdf/2407.15595 : discret matching flow for language generation
 
-**Graph Generation**
 
-- https://arxiv.org/pdf/2312.11529.pdf
-Graph generation : multi level graph generation thanks to Coarsening
 
 **Generative other**
 
@@ -149,9 +146,16 @@ Problem
 - GaLore : full finetune LLM as a lower cost, Memory-Efficient LLM Training by Gradient Low-Rank Projection 
 https://arxiv.org/pdf/2403.03507
 
+
 ### GNNs 
 
-- https://proceedings.mlr.press/v202/shirzad23a/shirzad23a.pdf (EXPHORMER: Sparse Transformers for Graphs)
+- https://arxiv.org/pdf/2303.06147 (EXPHORMER: Sparse Transformers for Graphs)
+
+**Graph Generation**
+
+- https://arxiv.org/pdf/2312.11529.pdf
+Graph generation : multi level graph generation thanks to Coarsening
+
 
 ### DL for Physics
 
