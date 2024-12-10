@@ -109,6 +109,7 @@ Simply explain matching flow for continuous variable
 
 - https://arxiv.org/pdf/2407.15595 : discret matching flow for language generation
 
+- Flow Matching Guide and Code : a nice summary from meta https://arxiv.org/pdf/2412.06264
 
 
 **Generative other**
