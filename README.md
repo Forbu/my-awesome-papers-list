@@ -146,6 +146,8 @@ Problem
 - GaLore : full finetune LLM as a lower cost, Memory-Efficient LLM Training by Gradient Low-Rank Projection 
 https://arxiv.org/pdf/2403.03507
 
+- Agent Skill Acquisition for Large Language Models via CycleQD : https://arxiv.org/abs/2410.14735
+A new kind of optimization algorithm for LLM (with mutation and merge)
 
 ### GNNs 
 
