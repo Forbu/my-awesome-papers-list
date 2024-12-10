@@ -213,6 +213,11 @@ be More Effective than Scaling Model Parameters : https://arxiv.org/pdf/2408.033
 
 - Searching Latent Program Spaces (https://arxiv.org/pdf/2411.08706) optimization in the latent space to fit every program in the in context setup.
 
+### Transformer architecure 
+
+- Transformers Can Navigate Mazes With Multi-Step
+Prediction : https://arxiv.org/pdf/2412.05117 an interesting takes on transformer next token prediction vs masked prediction (multi step prediction enable planning not so for next token prediction)
+
 ### Training bigger model
 
 - https://arxiv.org/pdf/2203.03466 : Tensor Programs V:
