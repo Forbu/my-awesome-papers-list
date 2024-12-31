@@ -215,6 +215,9 @@ be More Effective than Scaling Model Parameters : https://arxiv.org/pdf/2408.033
 
 ### Transformer architecure 
 
+- MLM-U algorithm : better than next token prediction : The Factorization Curse: Which Tokens You Predict
+Underlie the Reversal Curse and More https://arxiv.org/pdf/2406.05183
+
 - Transformers Can Navigate Mazes With Multi-Step
 Prediction : https://arxiv.org/pdf/2412.05117 an interesting takes on transformer next token prediction vs masked prediction (multi step prediction enable planning not so for next token prediction)
 
