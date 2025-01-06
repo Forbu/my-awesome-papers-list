@@ -159,6 +159,9 @@ A new kind of optimization algorithm for LLM (with mutation and merge)
 - https://arxiv.org/pdf/2312.11529.pdf
 Graph generation : multi level graph generation thanks to Coarsening
 
+- Graph Generative Pre-trained Transformer (https://arxiv.org/pdf/2501.01073)
+Graph generation AND how to finetune the model using rejection sampling or RL
+
 
 ### DL for Physics
 
