@@ -224,6 +224,8 @@ Underlie the Reversal Curse and More https://arxiv.org/pdf/2406.05183
 - Transformers Can Navigate Mazes With Multi-Step
 Prediction : https://arxiv.org/pdf/2412.05117 an interesting takes on transformer next token prediction vs masked prediction (multi step prediction enable planning not so for next token prediction)
 
+- REMOE: FULLY DIFFERENTIABLE MIXTURE-OFEXPERTS WITH RELU ROUTING : mixture of expert but better (https://arxiv.org/pdf/2412.14711)
+
 ### Training bigger model
 
 - https://arxiv.org/pdf/2203.03466 : Tensor Programs V:
