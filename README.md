@@ -111,6 +111,9 @@ Simply explain matching flow for continuous variable
 
 - Flow Matching Guide and Code : a nice summary from meta https://arxiv.org/pdf/2412.06264
 
+- A General Framework for Inference-time Scaling and
+Steering of Diffusion Models (refine the generation at test time to match reward model) https://arxiv.org/pdf/2501.06848
+
 
 **Generative other**
 
