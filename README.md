@@ -75,7 +75,7 @@ A nice summary of world model technics from Danijar Hafner
 - OpenAI o1 algorithm : https://arxiv.org/pdf/2310.04363 (AMORTIZING INTRACTABLE INFERENCE
 IN LARGE LANGUAGE MODELS)
 
-- RL GPDO : https://arxiv.org/abs/2402.03300 (group PPO)
+- RL for LLM (deepseek R1) : https://arxiv.org/abs/2402.03300 (group PPO)
 
 ### Generative model 
 
@@ -115,6 +115,8 @@ Simply explain matching flow for continuous variable
 
 - A General Framework for Inference-time Scaling and
 Steering of Diffusion Models (refine the generation at test time to match reward model) https://arxiv.org/pdf/2501.06848
+
+- Decentralized Diffusion Models : https://arxiv.org/pdf/2501.05450 (nice setup for decentralized training)
 
 
 **Generative other**
