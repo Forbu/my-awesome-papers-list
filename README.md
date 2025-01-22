@@ -75,6 +75,8 @@ A nice summary of world model technics from Danijar Hafner
 - OpenAI o1 algorithm : https://arxiv.org/pdf/2310.04363 (AMORTIZING INTRACTABLE INFERENCE
 IN LARGE LANGUAGE MODELS)
 
+- RL GPDO : https://arxiv.org/abs/2402.03300 (group PPO)
+
 ### Generative model 
 
 - MeshGPT : https://nihalsid.github.io/mesh-gpt/static/MeshGPT.pdf#page=9&zoom=100,412,724
