@@ -77,6 +77,8 @@ IN LARGE LANGUAGE MODELS)
 
 - RL for LLM (deepseek R1) : https://arxiv.org/abs/2402.03300 (group PPO)
 
+- ppo implementation detail https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/
+
 ### Generative model 
 
 - MeshGPT : https://nihalsid.github.io/mesh-gpt/static/MeshGPT.pdf#page=9&zoom=100,412,724
