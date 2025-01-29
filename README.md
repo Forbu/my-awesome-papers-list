@@ -159,6 +159,13 @@ https://arxiv.org/pdf/2403.03507
 - Agent Skill Acquisition for Large Language Models via CycleQD : https://arxiv.org/abs/2410.14735
 A new kind of optimization algorithm for LLM (with mutation and merge)
 
+Chinese best AI :
+
+- KIMI K1.5: SCALING REINFORCEMENT LEARNING WITH LLMS https://arxiv.org/abs/2501.12599 : 
+
+- DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning
+https://arxiv.org/abs/2501.12948
+
 ### GNNs 
 
 - https://arxiv.org/pdf/2303.06147 (EXPHORMER: Sparse Transformers for Graphs)
