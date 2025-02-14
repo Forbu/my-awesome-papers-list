@@ -169,6 +169,7 @@ https://arxiv.org/abs/2501.12948
 ### GNNs 
 
 - https://arxiv.org/pdf/2303.06147 (EXPHORMER: Sparse Transformers for Graphs)
+- https://arxiv.org/pdf/1905.11136 (Provably Powerful Graph Networks :powerful 3-WL expressive)
 
 **Graph Generation**
 
