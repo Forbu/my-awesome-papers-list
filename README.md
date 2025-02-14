@@ -120,6 +120,7 @@ Steering of Diffusion Models (refine the generation at test time to match reward
 
 - Decentralized Diffusion Models : https://arxiv.org/pdf/2501.05450 (nice setup for decentralized training)
 
+- https://arxiv.org/pdf/2502.09616 : better rectified flow with Variational Rectified Flow Matching
 
 **Generative other**
 
