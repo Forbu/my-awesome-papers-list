@@ -18,6 +18,8 @@
 
 [Reasoning](#Reasoning)
 
+[Transformer architecure](#Transformer)
+
 [Training Big Model](#Training-bigger-model)
 
 [Deep potential Arc](#Deep-Potential)
