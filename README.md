@@ -18,7 +18,7 @@
 
 [Reasoning](#Reasoning)
 
-[Transformer architecure](#Transformer)
+[Transformer](#Transformer-architecure)
 
 [Training Big Model](#Training-bigger-model)
 
