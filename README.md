@@ -261,6 +261,8 @@ The idea is to tune an HP (like lr) with a small model and then we can transfert
 
 - https://blog.eleuther.ai/mutransfer/ good summarized on why and how to implement muP parametrization
 
+- https://huggingface.co/spaces/nanotron/ultrascale-playbook : playbook on the different parallelization setup
+
 ### Other
 
 - https://proceedings.mlr.press/v206/bertrand23a/bertrand23a.pdf
