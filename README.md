@@ -236,7 +236,7 @@ be More Effective than Scaling Model Parameters : https://arxiv.org/pdf/2408.033
 
 - Searching Latent Program Spaces (https://arxiv.org/pdf/2411.08706) optimization in the latent space to fit every program in the in context setup.
 
-### Transformer architecure 
+### Transformer architecture 
 
 - MLM-U algorithm : better than next token prediction : The Factorization Curse: Which Tokens You Predict
 Underlie the Reversal Curse and More https://arxiv.org/pdf/2406.05183
