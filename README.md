@@ -93,6 +93,8 @@ IN LARGE LANGUAGE MODELS)
 
 - ppo implementation detail https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/
 
+- https://rlhfbook.com/ a big pdf on a lot of technics around RL in NLP
+
 ### Generative model 
 
 - MeshGPT : https://nihalsid.github.io/mesh-gpt/static/MeshGPT.pdf#page=9&zoom=100,412,724
