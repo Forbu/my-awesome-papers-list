@@ -244,7 +244,8 @@ Accelerated Catalyst Design https://jmlr.org/papers/volume25/23-0680/23-0680.pdf
 - FLOW MATCHING FOR ACCELERATED SIMULATION OF ATOMIC TRANSPORT IN MATERIALS (https://arxiv.org/pdf/2410.01464)
 [![arXiv](https://img.shields.io/badge/arXiv-2410.01464-b31b1b.svg)](https://arxiv.org/pdf/2410.01464)
 
-
+- All-atom Diffusion Transformers: Unified
+generative modelling of molecules and materials : https://arxiv.org/pdf/2503.03965
 
 ### Symetry group in DL
 
