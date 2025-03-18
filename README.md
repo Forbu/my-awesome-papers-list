@@ -95,6 +95,8 @@ IN LARGE LANGUAGE MODELS)
 
 - https://rlhfbook.com/ a big pdf on a lot of technics around RL in NLP
 
+- https://dapo-sia.github.io/static/pdf/dapo_paper.pdf improved GRPO (DAPO)
+
 ### Generative model 
 
 - MeshGPT : https://nihalsid.github.io/mesh-gpt/static/MeshGPT.pdf#page=9&zoom=100,412,724
