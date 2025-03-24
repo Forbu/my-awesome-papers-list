@@ -46,9 +46,9 @@ Interesting take on forecasting chaotic time series
 - [An Empirical Model of Large-Batch Training](https://arxiv.org/pdf/1812.06162)
 [![arXiv](https://img.shields.io/badge/arXiv-1812.06162-b31b1b.svg)](https://arxiv.org/pdf/1812.06162) Choosing the batch size (to read)
 
-- [Learning to (Learn at Test Time):
-RNNs with Expressive Hidden States](https://arxiv.org/pdf/2407.04620)
-[![arXiv](https://img.shields.io/badge/arXiv-2407.04620-b31b1b.svg)](https://arxiv.org/pdf/2407.04620) : a new way to approach sequence problem with DL / ML
+- TABM: ADVANCING TABULAR DEEP LEARNING WITH PARAMETER-EFFICIENT ENSEMBLING (tabular data model) :
+  https://arxiv.org/pdf/2410.24210
+
 
 ### Reinforcement learning 
 
