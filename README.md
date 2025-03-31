@@ -355,4 +355,3 @@ potential energy surface)
 [![arXiv](https://img.shields.io/badge/arXiv-1707.09571-b31b1b.svg)](https://arxiv.org/pdf/1707.09571) (Deep Potential Molecular Dynamics: a scalable model with the
 accuracy of quantum mechanics)
 
-Add all the arxiv badge possible
