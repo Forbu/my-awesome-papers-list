@@ -153,6 +153,8 @@ Steering of Diffusion Models (refine the generation at test time to match reward
 - https://arxiv.org/pdf/2502.09616
 [![arXiv](https://img.shields.io/badge/arXiv-2502.09616-b31b1b.svg)](https://arxiv.org/pdf/2502.09616) : better rectified flow with Variational Rectified Flow Matching
 
+- Rolling Diffusion Models : https://arxiv.org/abs/2402.09470 improved diffusion for temporal-like data
+
 **Generative other**
 
 - https://arxiv.org/pdf/2404.09562
