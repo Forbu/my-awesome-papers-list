@@ -155,6 +155,8 @@ Steering of Diffusion Models (refine the generation at test time to match reward
 
 - Rolling Diffusion Models : https://arxiv.org/abs/2402.09470 improved diffusion for temporal-like data
 
+- Gaussian Mixture Flow Matching Models https://arxiv.org/pdf/2504.05304
+
 **Generative other**
 
 - https://arxiv.org/pdf/2404.09562
