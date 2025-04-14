@@ -314,7 +314,9 @@ Prediction : https://arxiv.org/pdf/2412.05117
 
 - Large Language Diffusion Models
 https://arxiv.org/abs/2502.09992
-[![arXiv](https://img.shields.io/badge/arXiv-2502.09992-b31b1b.svg)](https://arxiv.org/abs/2502.09992) (seems to be working fine with just masking AND clever sampling technics)
+[![arXiv](https://img.shields.io/badge/arXiv-2502.09992-b31b1b.svg)](https://arxiv.org/abs/2502.09992) (seems to be working fine with just masking AND clever sampling technics) (llaDa)
+
+- improved dLLM with RL : https://dllm-reasoning.github.io/
 
 - REMOE: FULLY DIFFERENTIABLE MIXTURE-OFEXPERTS WITH RELU ROUTING : mixture of expert but better (https://arxiv.org/pdf/2412.14711)
 [![arXiv](https://img.shields.io/badge/arXiv-2412.14711-b31b1b.svg)](https://arxiv.org/pdf/2412.14711)
