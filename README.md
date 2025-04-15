@@ -365,3 +365,5 @@ accuracy of quantum mechanics)
 
 - One-Minute Video Generation with Test-Time Training https://arxiv.org/pdf/2504.05298
 
+- Seaweed-7B: Cost-Effective Training of Video Generation Foundation Model
+ https://arxiv.org/abs/2504.08685 
