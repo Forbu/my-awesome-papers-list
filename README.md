@@ -157,6 +157,10 @@ Steering of Diffusion Models (refine the generation at test time to match reward
 
 - Gaussian Mixture Flow Matching Models https://arxiv.org/pdf/2504.05304
 
+- Flow Matching with General Discrete Paths: A Kinetic-Optimal Perspective : https://arxiv.org/abs/2412.03487
+ 
+
+
 **Generative other**
 
 - https://arxiv.org/pdf/2404.09562
