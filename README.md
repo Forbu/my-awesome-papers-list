@@ -375,4 +375,8 @@ accuracy of quantum mechanics)
 - Seaweed-7B: Cost-Effective Training of Video Generation Foundation Model
  https://arxiv.org/abs/2504.08685
 
-- https://static.magi.world/static/files/MAGI_1.pdf 
+- https://static.magi.world/static/files/MAGI_1.pdf
+
+- Prithvi-EO-2.0: A Versatile Multi-Temporal Foundation Model for Earth Observation Applications
+https://arxiv.org/abs/2412.02732 
+
