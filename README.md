@@ -368,6 +368,8 @@ potential energy surface)
 [![arXiv](https://img.shields.io/badge/arXiv-1707.09571-b31b1b.svg)](https://arxiv.org/pdf/1707.09571) (Deep Potential Molecular Dynamics: a scalable model with the
 accuracy of quantum mechanics)
 
+- orb v3 https://arxiv.org/pdf/2504.06231
+
 ## video generation
 
 - One-Minute Video Generation with Test-Time Training https://arxiv.org/pdf/2504.05298
