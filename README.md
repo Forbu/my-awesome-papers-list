@@ -161,6 +161,8 @@ Steering of Diffusion Models (refine the generation at test time to match reward
 
 - Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution https://arxiv.org/pdf/2310.16834 from the inception labs people (discrete LLM) 
 
+- https://arxiv.org/pdf/2505.05470 Flow-GRPO:
+Training Flow Matching Models via Online RL
 
 **Generative other**
 
