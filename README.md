@@ -164,6 +164,9 @@ Steering of Diffusion Models (refine the generation at test time to match reward
 - https://arxiv.org/pdf/2505.05470 Flow-GRPO:
 Training Flow Matching Models via Online RL
 
+- improved one step matching flow : Mean Flows for One-step Generative Modeling
+  https://arxiv.org/pdf/2505.13447
+
 **Generative other**
 
 - https://arxiv.org/pdf/2404.09562
