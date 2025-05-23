@@ -242,6 +242,8 @@ Graph generation : multi level graph generation thanks to Coarsening
 [![arXiv](https://img.shields.io/badge/arXiv-2501.01073-b31b1b.svg)](https://arxiv.org/pdf/2501.01073)
 Graph generation AND how to finetune the model using rejection sampling or RL
 
+- LaM-SLidE: Latent Space Modeling of Spatial
+Dynamical Systems via Linked Entities https://arxiv.org/pdf/2502.12128 (VAE but for graph data)
 
 ### DL for Physics
 
