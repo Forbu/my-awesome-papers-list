@@ -353,6 +353,9 @@ The idea is to tune an HP (like lr) with a small model and then we can transfert
 
 - Don't be lazy: CompleteP enables compute-efficient deep transformers : improve muP for depth AND width https://arxiv.org/abs/2505.01618
 
+- jax scaling book : https://jax-ml.github.io/scaling-book/ 
+
+
 ### Other
 
 - https://proceedings.mlr.press/v206/bertrand23a/bertrand23a.pdf
