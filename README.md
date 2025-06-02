@@ -97,6 +97,9 @@ IN LARGE LANGUAGE MODELS)
 
 - https://dapo-sia.github.io/static/pdf/dapo_paper.pdf improved GRPO (DAPO)
 
+- https://arxiv.org/pdf/2505.24864 : ProRL: Prolonged Reinforcement Learning : improved reciped for GRPO 
+
+
 ### Generative model 
 
 - MeshGPT : https://nihalsid.github.io/mesh-gpt/static/MeshGPT.pdf#page=9&zoom=100,412,724
