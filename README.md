@@ -170,6 +170,8 @@ Training Flow Matching Models via Online RL
 - improved one step matching flow : Mean Flows for One-step Generative Modeling
   https://arxiv.org/pdf/2505.13447
 
+- SiT paper : https://arxiv.org/pdf/2401.08740 optimization of ODE / SDE generative model around the DiT architecture (SDE with cosin scheduler seems to work best)
+
 **Generative other**
 
 - https://arxiv.org/pdf/2404.09562
