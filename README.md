@@ -230,6 +230,8 @@ Chinese best AI :
 https://arxiv.org/abs/2501.12948
 [![arXiv](https://img.shields.io/badge/arXiv-2501.12948-b31b1b.svg)](https://arxiv.org/abs/2501.12948)
 
+- Magistral medium : mistral reasoning model https://mistral.ai/static/research/magistral.pdf
+
 ### GNNs 
 
 - https://arxiv.org/pdf/2303.06147
