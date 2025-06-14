@@ -24,6 +24,7 @@
 
 [Deep potential Arc](#Deep-Potential)
 
+[ML System](#ML-System)
 
 ### Deep learning general
 
@@ -399,5 +400,10 @@ accuracy of quantum mechanics)
 - https://static.magi.world/static/files/MAGI_1.pdf
 
 - Prithvi-EO-2.0: A Versatile Multi-Temporal Foundation Model for Earth Observation Applications
-https://arxiv.org/abs/2412.02732 
+https://arxiv.org/abs/2412.02732
+
+## ML System
+
+- Machine-Learning-Systems textbook : https://mlsysbook.ai/Machine-Learning-Systems.pdf
+
 
