@@ -295,6 +295,8 @@ Emerge in Invariant Networks
 https://arxiv.org/pdf/2312.08550
 [![arXiv](https://img.shields.io/badge/arXiv-2312.08550-b31b1b.svg)](https://arxiv.org/pdf/2312.08550)
 
+- LieRE: Lie Rotational Positional Encodings (better RoPe) https://arxiv.org/pdf/2406.10322
+
 ### Datasets
 
 - 3D objects dataset : https://arxiv.org/pdf/2307.05663
@@ -344,6 +346,7 @@ https://arxiv.org/abs/2502.09992
 [![arXiv](https://img.shields.io/badge/arXiv-2412.14711-b31b1b.svg)](https://arxiv.org/pdf/2412.14711)
 
 - softmax issues : Scalable-Softmax Is Superior for Attention https://arxiv.org/pdf/2501.19399
+
 
 ### Training bigger model
 
