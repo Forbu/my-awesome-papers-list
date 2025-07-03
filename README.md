@@ -173,6 +173,9 @@ Training Flow Matching Models via Online RL
 
 - SiT paper : https://arxiv.org/pdf/2401.08740 optimization of ODE / SDE generative model around the DiT architecture (SDE with cosin scheduler seems to work best)
 
+- Transition Matching: Scalable and Flexible Generative Modeling https://arxiv.org/pdf/2506.23589 (idea : velocity is now sample from (learn) probability to avoid averaging. 
+
+
 **Generative other**
 
 - https://arxiv.org/pdf/2404.09562
