@@ -412,4 +412,10 @@ https://arxiv.org/abs/2412.02732
 
 - Machine-Learning-Systems textbook : https://mlsysbook.ai/Machine-Learning-Systems.pdf
 
+## Weather model
+
+- A foundation model for the Earth system https://arxiv.org/abs/2405.13063
+
+- GraphCast: Learning skillful medium-range global weather forecasting : https://arxiv.org/abs/2212.12794
+
 
