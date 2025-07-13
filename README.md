@@ -232,12 +232,13 @@ Chinese best AI :
 
 - DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning
 https://arxiv.org/abs/2501.12948
-[![arXiv](https://img.shields.io/badge/arXiv-2501.12948-b31b1b.svg)](https://arxiv.org/abs/2501.12948)
+[![arXiv](https://img.shields.io/badge/arXiv-2501.12948-b31b1b.svg)](https://arxiv.org/abs/2501.12948
+
+- https://arxiv.org/abs/2507.06261 gemini2.5
 
 Mistral setup :
 
-Magistral medium : mistral reasoning model https://mistral.ai/static/research/magistral.pdf
-
+Magistral medium : mistral reasoning model https://mistral.ai/static/research/magistral.pd
 ### GNNs 
 
 - https://arxiv.org/pdf/2303.06147
