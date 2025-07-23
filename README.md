@@ -279,6 +279,10 @@ Accelerated Catalyst Design https://jmlr.org/papers/volume25/23-0680/23-0680.pdf
 - All-atom Diffusion Transformers: Unified
 generative modelling of molecules and materials : https://arxiv.org/pdf/2503.03965
 
+- Artificial Intelligence for Science in
+Quantum, Atomistic, and Continuum
+Systems https://arxiv.org/pdf/2307.08423
+
 ### Symetry group in DL
 
 - https://arxiv.org/pdf/2203.06153
