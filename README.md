@@ -175,6 +175,9 @@ Training Flow Matching Models via Online RL
 
 - Transition Matching: Scalable and Flexible Generative Modeling https://arxiv.org/pdf/2506.23589 (idea : velocity is now sample from (learn) probability to avoid averaging. 
 
+End to end diffusion model on images :
+
+- https://arxiv.org/pdf/2507.23268, https://arxiv.org/pdf/2412.03791v1 (perceiver like architecture), https://arxiv.org/pdf/2301.11093 (just changing the noise scheduler in a classic diffusion)
 
 **Generative other**
 
