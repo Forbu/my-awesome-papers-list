@@ -426,4 +426,5 @@ https://arxiv.org/abs/2412.02732
 
 - GraphCast: Learning skillful medium-range global weather forecasting : https://arxiv.org/abs/2212.12794
 
+- LaDCast: A Latent Diffusion Model for Medium-Range Ensemble Weather Forecasting : https://arxiv.org/pdf/2506.09193 3D DC-VAE (40 H100 days) into DiT with geoRoPE
 
