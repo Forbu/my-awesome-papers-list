@@ -242,6 +242,14 @@ https://arxiv.org/abs/2501.12948
 Mistral setup :
 
 Magistral medium : mistral reasoning model https://mistral.ai/static/research/magistral.pd
+
+dLLM (diffusion LLM) : 
+
+- Simple and Effective Masked Diffusion Language Models (https://arxiv.org/pdf/2406.07524)
+
+- DIFFUCODER: UNDERSTANDING AND IMPROVING MASKED DIFFUSION MODELS FOR CODE GENERATION (https://arxiv.org/pdf/2506.20639) Apple dLLM
+
+
 ### GNNs 
 
 - https://arxiv.org/pdf/2303.06147
