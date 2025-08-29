@@ -436,3 +436,4 @@ https://arxiv.org/abs/2412.02732
 
 - LaDCast: A Latent Diffusion Model for Medium-Range Ensemble Weather Forecasting : https://arxiv.org/pdf/2506.09193 3D DC-VAE (40 H100 days) into DiT with geoRoPE
 
+- Numerical models outperform AI weather forecasts of record-breaking extremes https://arxiv.org/pdf/2508.15724
