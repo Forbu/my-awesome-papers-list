@@ -179,6 +179,8 @@ End to end diffusion model on images :
 
 - https://arxiv.org/pdf/2507.23268, https://arxiv.org/pdf/2412.03791v1 (perceiver like architecture), https://arxiv.org/pdf/2301.11093 (just changing the noise scheduler in a classic diffusion)
 
+- blurring diffusion model : https://arxiv.org/abs/2209.05557 interesting noise schedule
+
 **Generative other**
 
 - https://arxiv.org/pdf/2404.09562
