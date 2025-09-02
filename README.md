@@ -100,6 +100,8 @@ IN LARGE LANGUAGE MODELS)
 
 - https://arxiv.org/pdf/2505.24864 : ProRL: Prolonged Reinforcement Learning : improved reciped for GRPO 
 
+- https://arxiv.org/abs/2508.13113 Contrastive Representations for Temporal Reasoning
+
 
 ### Generative model 
 
