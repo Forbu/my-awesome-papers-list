@@ -445,6 +445,8 @@ https://arxiv.org/abs/2412.02732
 - Probabilistic Weather Forecasting with Hierarchical
 Graph Neural Networks https://arxiv.org/pdf/2406.04759
 
+- WEATHERREAL: A BENCHMARK BASED ON IN-SITU
+OBSERVATIONS FOR EVALUATING WEATHER MODELS https://arxiv.org/pdf/2409.09371 
 
 
 
