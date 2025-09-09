@@ -183,6 +183,11 @@ End to end diffusion model on images :
 
 - blurring diffusion model : https://arxiv.org/abs/2209.05557 interesting noise schedule
 
+Discrete diffusion math on LLM :
+
+- Seed Diffusion: A Large-Scale Diffusion Language Model
+with High-Speed Inference (https://arxiv.org/pdf/2508.02193)
+
 **Generative other**
 
 - https://arxiv.org/pdf/2404.09562
@@ -324,6 +329,8 @@ https://arxiv.org/pdf/2312.08550
 
 - 3D objects dataset : https://arxiv.org/pdf/2307.05663
 [![arXiv](https://img.shields.io/badge/arXiv-2307.05663-b31b1b.svg)](https://arxiv.org/pdf/2307.05663)
+
+- Efficient data selection DataRater: Meta-Learned Dataset Curation https://arxiv.org/pdf/2505.17895
 
 ### Constraints into Neural Net
 
