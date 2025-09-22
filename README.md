@@ -102,6 +102,7 @@ IN LARGE LANGUAGE MODELS)
 
 - https://arxiv.org/abs/2508.13113 Contrastive Representations for Temporal Reasoning
 
+- diffusion model (flow matching) with RL : DIFFUSIONNFT: ONLINE DIFFUSION REINFORCEMENT WITH FORWARD PROCESS https://arxiv.org/pdf/2509.16117v1
 
 ### Generative model 
 
