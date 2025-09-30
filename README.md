@@ -104,6 +104,9 @@ IN LARGE LANGUAGE MODELS)
 
 - diffusion model (flow matching) with RL : DIFFUSIONNFT: ONLINE DIFFUSION REINFORCEMENT WITH FORWARD PROCESS https://arxiv.org/pdf/2509.16117v1
 
+- https://arxiv.org/pdf/2509.25050 ADVANTAGE WEIGHTED MATCHING: ALIGNING RL
+WITH PRETRAINING IN DIFFUSION MODELS : applying GRPO to diffusion / flow model
+
 ### Generative model 
 
 - MeshGPT : https://nihalsid.github.io/mesh-gpt/static/MeshGPT.pdf#page=9&zoom=100,412,724
