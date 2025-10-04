@@ -192,6 +192,9 @@ Discrete diffusion math on LLM :
 - Seed Diffusion: A Large-Scale Diffusion Language Model
 with High-Speed Inference (https://arxiv.org/pdf/2508.02193)
 
+- optimize FM setup with OT (but with something better than batch OT)
+ Flow Matching with Semidiscrete Couplings https://arxiv.org/pdf/2509.25519
+
 **Generative other**
 
 - https://arxiv.org/pdf/2404.09562
