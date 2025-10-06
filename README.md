@@ -107,6 +107,8 @@ IN LARGE LANGUAGE MODELS)
 - https://arxiv.org/pdf/2509.25050 ADVANTAGE WEIGHTED MATCHING: ALIGNING RL
 WITH PRETRAINING IN DIFFUSION MODELS : applying GRPO to diffusion / flow model
 
+- EVOLUTION STRATEGIES AT SCALE: LLM FINETUNING BEYOND REINFORCEMENT LEARNING https://arxiv.org/pdf/2509.24372 ES seems a promising setup for RL instead of policy gradiant.
+
 ### Generative model 
 
 - MeshGPT : https://nihalsid.github.io/mesh-gpt/static/MeshGPT.pdf#page=9&zoom=100,412,724
