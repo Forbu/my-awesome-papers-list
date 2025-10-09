@@ -461,6 +461,12 @@ https://arxiv.org/abs/2412.02732
 - Probabilistic Weather Forecasting with Hierarchical
 Graph Neural Networks https://arxiv.org/pdf/2406.04759
 
+- Deep Learning Techniques in Extreme Weather
+Events: A Review https://arxiv.org/pdf/2308.10995
+
+- RainPro-8: An Efficient Deep Learning Model to
+Estimate Rainfall Probabilities Over 8 Hours https://arxiv.org/pdf/2505.10271v1
+
 - WEATHERREAL: A BENCHMARK BASED ON IN-SITU
 OBSERVATIONS FOR EVALUATING WEATHER MODELS https://arxiv.org/pdf/2409.09371 
 
