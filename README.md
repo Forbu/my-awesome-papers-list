@@ -467,6 +467,11 @@ Events: A Review https://arxiv.org/pdf/2308.10995
 - RainPro-8: An Efficient Deep Learning Model to
 Estimate Rainfall Probabilities Over 8 Hours https://arxiv.org/pdf/2505.10271v1
 
+- Lightning Nowcasting Using Solely Lightning Data https://www.mdpi.com/2073-4433/14/12/1713
+
+- A Convolutional Recurrent Neural Network to
+Nowcast Cloud-to-Ground Lightning
+
 - WEATHERREAL: A BENCHMARK BASED ON IN-SITU
 OBSERVATIONS FOR EVALUATING WEATHER MODELS https://arxiv.org/pdf/2409.09371 
 
