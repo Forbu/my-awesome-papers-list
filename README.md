@@ -472,6 +472,9 @@ Estimate Rainfall Probabilities Over 8 Hours https://arxiv.org/pdf/2505.10271v1
 - A Convolutional Recurrent Neural Network to
 Nowcast Cloud-to-Ground Lightning
 
+- A Training-Free, Quasi-Real Time Lightning
+Nowcasting Approach
+
 - WEATHERREAL: A BENCHMARK BASED ON IN-SITU
 OBSERVATIONS FOR EVALUATING WEATHER MODELS https://arxiv.org/pdf/2409.09371 
 
