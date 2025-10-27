@@ -189,6 +189,10 @@ End to end diffusion model on images :
 
 - blurring diffusion model : https://arxiv.org/abs/2209.05557 interesting noise schedule
 
+Unifying paper (FM and diffusion):
+
+- Diffusion Meets Flow Matching: Two Sides of the Same Coin https://diffusionflow.github.io/
+
 Discrete diffusion math on LLM :
 
 - Seed Diffusion: A Large-Scale Diffusion Language Model
