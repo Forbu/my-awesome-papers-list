@@ -485,6 +485,7 @@ Nowcasting Approach
 - WEATHERREAL: A BENCHMARK BASED ON IN-SITU
 OBSERVATIONS FOR EVALUATING WEATHER MODELS https://arxiv.org/pdf/2409.09371 
 
+- weather paper repo: https://github.com/hoonerg/Awesome-Diffusion-Models-for-Weather-Forecasting
 
 
 
