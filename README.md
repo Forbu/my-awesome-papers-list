@@ -274,6 +274,8 @@ dLLM (diffusion LLM) :
 
 - DIFFUCODER: UNDERSTANDING AND IMPROVING MASKED DIFFUSION MODELS FOR CODE GENERATION (https://arxiv.org/pdf/2506.20639) Apple dLLM
 
+- LLM training general recipe : The Smol Training Playbook:
+The Secrets to Building World-Class LLMs https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook
 
 ### GNNs 
 
