@@ -489,5 +489,7 @@ OBSERVATIONS FOR EVALUATING WEATHER MODELS https://arxiv.org/pdf/2409.09371
 
 - weather paper repo: https://github.com/hoonerg/Awesome-Diffusion-Models-for-Weather-Forecasting
 
+- creating autoregressively consistent model : https://arxiv.org/pdf/2509.25631 (Swift: An Autoregressive Consistency
+Model for Efficient Weather Forecasting)
 
 
