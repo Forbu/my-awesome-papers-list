@@ -492,4 +492,6 @@ OBSERVATIONS FOR EVALUATING WEATHER MODELS https://arxiv.org/pdf/2409.09371
 - creating autoregressively consistent model : https://arxiv.org/pdf/2509.25631 (Swift: An Autoregressive Consistency
 Model for Efficient Weather Forecasting)
 
+- Seamless lightning nowcasting with recurrent-convolutional deep learning https://arxiv.org/pdf/2203.10114
+
 
