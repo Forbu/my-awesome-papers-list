@@ -109,6 +109,8 @@ WITH PRETRAINING IN DIFFUSION MODELS : applying GRPO to diffusion / flow model
 
 - EVOLUTION STRATEGIES AT SCALE: LLM FINETUNING BEYOND REINFORCEMENT LEARNING https://arxiv.org/pdf/2509.24372 ES seems a promising setup for RL instead of policy gradiant.
 
+- Evolution Strategies at the Hyperscale https://papers-pdfs.assets.alphaxiv.org/2511.16652v1.pdf another ES for LLM setup (low rank)
+
 ### Generative model 
 
 - MeshGPT : https://nihalsid.github.io/mesh-gpt/static/MeshGPT.pdf#page=9&zoom=100,412,724
@@ -276,6 +278,8 @@ dLLM (diffusion LLM) :
 
 - LLM training general recipe : The Smol Training Playbook:
 The Secrets to Building World-Class LLMs https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook
+
+
 
 ### GNNs 
 
