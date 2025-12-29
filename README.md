@@ -50,6 +50,10 @@ Interesting take on forecasting chaotic time series
 - TABM: ADVANCING TABULAR DEEP LEARNING WITH PARAMETER-EFFICIENT ENSEMBLING (tabular data model) :
   https://arxiv.org/pdf/2410.24210
 
+- Joint-Embedding vs Reconstruction:
+Provable Benefits of Latent Space Prediction
+for Self-Supervised Learning https://arxiv.org/pdf/2505.12477 (discussion between reconstruction vs joint embedding for representation / SSL)
+
 
 ### Reinforcement learning 
 
