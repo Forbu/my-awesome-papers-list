@@ -210,6 +210,11 @@ with High-Speed Inference (https://arxiv.org/pdf/2508.02193)
 - Don't Settle Too Early: Self-Reflective Remasking for Diffusion Language Models
 https://arxiv.org/pdf/2509.23653
 
+Full pixel diffusion:
+- x parametrization works better : https://arxiv.org/pdf/2511.13720 Back to Basics: Let Denoising Generative Models Denoise
+  
+- https://arxiv.org/pdf/2601.22158 One-step Latent-free Image Generation with Pixel Mean Flows. Mean flow (1-step diffusion)
+
 **Generative other**
 
 - https://arxiv.org/pdf/2404.09562
