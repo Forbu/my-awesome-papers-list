@@ -179,6 +179,7 @@ Steering of Diffusion Models (refine the generation at test time to match reward
 
 - Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution https://arxiv.org/pdf/2310.16834 from the inception labs people (discrete LLM) 
 
+
 - https://arxiv.org/pdf/2505.05470 Flow-GRPO:
 Training Flow Matching Models via Online RL
 
@@ -203,6 +204,9 @@ Discrete diffusion math on LLM :
 
 - Seed Diffusion: A Large-Scale Diffusion Language Model
 with High-Speed Inference (https://arxiv.org/pdf/2508.02193)
+
+- Discrete Diffusion: Generalized Discrete Diffusion from Snapshots (https://arxiv.org/pdf/2603.21342)
+Seem to be pretty good
 
 - optimize FM setup with OT (but with something better than batch OT)
  Flow Matching with Semidiscrete Couplings https://arxiv.org/pdf/2509.25519
