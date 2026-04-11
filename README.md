@@ -54,6 +54,7 @@ Interesting take on forecasting chaotic time series
 Provable Benefits of Latent Space Prediction
 for Self-Supervised Learning https://arxiv.org/pdf/2505.12477 (discussion between reconstruction vs joint embedding for representation / SSL)
 
+- Scaling Latent Reasoning via Looped Language Models https://arxiv.org/pdf/2510.25741
 
 ### Reinforcement learning 
 
