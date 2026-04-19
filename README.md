@@ -116,6 +116,9 @@ WITH PRETRAINING IN DIFFUSION MODELS : applying GRPO to diffusion / flow model
 
 - Evolution Strategies at the Hyperscale https://papers-pdfs.assets.alphaxiv.org/2511.16652v1.pdf another ES for LLM setup (low rank)
 
+- Introducing Target Policy Optimization (TPO) : stable GRPO https://arxiv.org/pdf/2604.06159
+
+
 ### Generative model 
 
 - MeshGPT : https://nihalsid.github.io/mesh-gpt/static/MeshGPT.pdf#page=9&zoom=100,412,724
@@ -413,6 +416,7 @@ https://arxiv.org/abs/2502.09992
 
 - softmax issues : Scalable-Softmax Is Superior for Attention https://arxiv.org/pdf/2501.19399
 
+- Loop transformer (very close the deep thinking) ELT: Elastic Looped Transformers for Visual Generation https://arxiv.org/pdf/2604.09168
 
 ### Training bigger model
 
