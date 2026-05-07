@@ -225,6 +225,8 @@ Full pixel diffusion:
   
 - https://arxiv.org/pdf/2601.22158 One-step Latent-free Image Generation with Pixel Mean Flows. Mean flow (1-step diffusion)
 
+- https://sander.ai/2026/05/06/flow-maps.html : blog on flow map idea https://sander.ai/2026/05/06/flow-maps.html
+
 **Generative other**
 
 - https://arxiv.org/pdf/2404.09562
@@ -517,5 +519,9 @@ OBSERVATIONS FOR EVALUATING WEATHER MODELS https://arxiv.org/pdf/2409.09371
 Model for Efficient Weather Forecasting)
 
 - Seamless lightning nowcasting with recurrent-convolutional deep learning https://arxiv.org/pdf/2203.10114
+
+- Scaling Laws of Global Weather Models https://arxiv.org/pdf/2602.22962 : data sclaing is pretty good for weather model
+
+- 
 
 
