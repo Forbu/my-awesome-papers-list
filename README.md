@@ -522,6 +522,9 @@ Model for Efficient Weather Forecasting)
 
 - Scaling Laws of Global Weather Models https://arxiv.org/pdf/2602.22962 : data sclaing is pretty good for weather model
 
-- 
+- SEVIR : A Storm Event Imagery Dataset for Deep
+Learning Applications in Radar and Satellite
+Meteorology https://proceedings.neurips.cc/paper/2020/file/fa78a16157fed00d7a80515818432169-Paper.pdf
+dataset like the one i create
 
 
