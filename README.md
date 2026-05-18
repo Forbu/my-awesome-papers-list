@@ -527,4 +527,6 @@ Learning Applications in Radar and Satellite
 Meteorology https://proceedings.neurips.cc/paper/2020/file/fa78a16157fed00d7a80515818432169-Paper.pdf
 dataset like the one i create
 
+- CRA5 a high-fidelity compressed reanalysis atmospheric dataset for weather and climate research https://www.nature.com/articles/s41597-026-07381-2
+
 
