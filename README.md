@@ -529,4 +529,5 @@ dataset like the one i create
 
 - CRA5 a high-fidelity compressed reanalysis atmospheric dataset for weather and climate research https://www.nature.com/articles/s41597-026-07381-2
 
+- Learning Accurate Storm-Scale Evolution from Observations (nvidia flashnet) https://arxiv.org/pdf/2601.17268v1
 
