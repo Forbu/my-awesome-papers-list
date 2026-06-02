@@ -532,3 +532,7 @@ dataset like the one i create
 
 - WIND: diffusion forcing stabilize autoregression rollout (WIND: Weather Inverse Diffusion for Zero-Shot Atmospheric Modeling) https://arxiv.org/pdf/2602.03924
 
+- CAN AI WEATHER MODELS PREDICT BEYOND TWO WEEKS? A
+QUANTITATIVE BENCHMARK AND ANALYSIS OF LONG
+ROLLOUTS (autoregressive stability) https://arxiv.org/pdf/2605.30184
+
