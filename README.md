@@ -226,6 +226,8 @@ Full pixel diffusion:
 
 - https://sander.ai/2026/05/06/flow-maps.html : blog on flow map idea https://sander.ai/2026/05/06/flow-maps.html
 
+- https://peppaking8.github.io/#/post/minit2i : minimal implementation of T2I model
+
 **Generative other**
 
 - https://arxiv.org/pdf/2404.09562
