@@ -301,6 +301,8 @@ dLLM (diffusion LLM) :
 - LLM training general recipe : The Smol Training Playbook:
 The Secrets to Building World-Class LLMs https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook
 
+- creation of synthetic dataset Autodata: An agentic data scientist to create high
+quality synthetic data https://arxiv.org/pdf/2606.25996
 
 
 ### GNNs 
