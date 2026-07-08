@@ -547,3 +547,5 @@ GENERATIVE MODELING https://arxiv.org/pdf/2510.06634v1
 - Elucidating the Design Choice of Probability Paths in Flow
 Matching for Forecasting https://arxiv.org/pdf/2410.03229
 
+- ROLLING FORCING: AUTOREGRESSIVE LONG VIDEO
+DIFFUSION IN REAL TIME https://arxiv.org/pdf/2509.25161
