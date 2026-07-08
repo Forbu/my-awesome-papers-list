@@ -544,3 +544,6 @@ ROLLOUTS (autoregressive stability) https://arxiv.org/pdf/2605.30184
 IMPROVED DISTRIBUTION-TO-DISTRIBUTION
 GENERATIVE MODELING https://arxiv.org/pdf/2510.06634v1
 
+- Elucidating the Design Choice of Probability Paths in Flow
+Matching for Forecasting https://arxiv.org/pdf/2410.03229
+
