@@ -117,6 +117,7 @@ WITH PRETRAINING IN DIFFUSION MODELS : applying GRPO to diffusion / flow model
 
 - Introducing Target Policy Optimization (TPO) : stable GRPO https://arxiv.org/pdf/2604.06159
 
+- Training Agents Inside of Scalable World Models https://arxiv.org/pdf/2509.24527v1
 
 ### Generative model 
 
